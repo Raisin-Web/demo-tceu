@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demo-tceu/static/css/main.daa86cf6.css",
+    "main.js": "/demo-tceu/static/js/main.703fdb7c.js",
+    "static/js/453.10527a99.chunk.js": "/demo-tceu/static/js/453.10527a99.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/demo-tceu/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Regular.ttf": "/demo-tceu/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Lateef-Regular.ttf": "/demo-tceu/static/media/Lateef-Regular.e3aac488f3cd7d6988cc.ttf",
+    "static/media/im1.png": "/demo-tceu/static/media/im1.72e99f7e113d05361198.png",
+    "static/media/Roboto-Regular.ttf": "/demo-tceu/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/im2.png": "/demo-tceu/static/media/im2.268a2b6298a7fb577cd8.png",
+    "static/media/im4.png": "/demo-tceu/static/media/im4.09d89d109cefa0ad7497.png",
+    "static/media/Rakkas-Regular.ttf": "/demo-tceu/static/media/Rakkas-Regular.80542eb96e8e1f5b869e.ttf",
+    "static/media/ArefRuqaa-Bold.ttf": "/demo-tceu/static/media/ArefRuqaa-Bold.96b09607cb1e588e9d27.ttf",
+    "static/media/ArefRuqaa-Regular.ttf": "/demo-tceu/static/media/ArefRuqaa-Regular.f1748641e2187e73c259.ttf",
+    "static/media/im3.png": "/demo-tceu/static/media/im3.2dafdbb24a7c67223ea6.png",
+    "static/media/logo.png": "/demo-tceu/static/media/logo.edb9e20572da5fc728ce.png",
+    "static/media/logo.svg": "/demo-tceu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demo-tceu/index.html",
+    "main.daa86cf6.css.map": "/demo-tceu/static/css/main.daa86cf6.css.map",
+    "main.703fdb7c.js.map": "/demo-tceu/static/js/main.703fdb7c.js.map",
+    "453.10527a99.chunk.js.map": "/demo-tceu/static/js/453.10527a99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa86cf6.css",
+    "static/js/main.703fdb7c.js"
+  ]
+}
